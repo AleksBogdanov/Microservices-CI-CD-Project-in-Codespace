@@ -32,6 +32,15 @@ Creating Python Microservices project, built entirenly in Github Codespaces
 12) Create make all, doing everything at once: lint, format, test and install packages
 13) Create AWS lambda function to test the logic
 14) To debud, useful tool is fire. Convert python functions into CLI 
+15) Creating the SRC logic
+16) Creating the FastAPI Microservices
+17) Containerize the application
+18) Creating Dockerfile, consisting of all dependencies
+19) Create project in App Runner  
+20) Push the image to ECR
+21) Build the project 
+22) Add to the makefile all the steps
+23) Repeat all the steps and make them more efficient
  ### Colab Notebook
  ### AWS Cloud9
   - Working very actively with the cloud, this is a very good idea, to clone you repository there
