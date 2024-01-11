@@ -15,6 +15,10 @@ Creating Python Microservices project, built entirenly in Github Codespaces
   * Dockerfile
   * Command-line-tool
 
+1) Creating virtualenv for python: python3 -m venv ~/.venv
+2) Append to the .bashrc 'source .venv/bin/activate' file, so that every time the project loads, the virtualenv is activated.
+
+
  ### Colab Notebook
  ### AWS Cloud9
  ### AWS CloudShell
