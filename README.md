@@ -26,6 +26,8 @@ Creating Python Microservices project, built entirenly in Github Codespaces
 6) Pip freeze, to have all the versions of the libraries 
 7) Install the packages and save the versions. It is important to have this feedback loop, major thing in DevOps culture. 
 8) Adding github actions
+9) Adding different stages for the actions: build, test, linting. Shifting security and testing as early as possible. If it fails, it should not be in production. 
+10) Adding testing state to Makefile
 
  ### Colab Notebook
  ### AWS Cloud9
