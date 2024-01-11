@@ -28,6 +28,8 @@ Creating Python Microservices project, built entirenly in Github Codespaces
 8) Adding github actions
 9) Adding different stages for the actions: build, test, linting. Shifting security and testing as early as possible. If it fails, it should not be in production. 
 10) Adding testing state to Makefile
+11) Adding format, now replaced by github copilot
+12) Create make all, doing everything at once: lint, format, test and install packages
 
  ### Colab Notebook
  ### AWS Cloud9

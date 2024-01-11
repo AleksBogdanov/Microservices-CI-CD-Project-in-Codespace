@@ -10,5 +10,10 @@ install:
 lint:
 		pylint --disable=R,C src/*.py
 
+format:
+		black *.py src/*.py
+
 test:
 		python -m pytest -vv --cov=src test/test_*.py
+
+all: install lint test format
