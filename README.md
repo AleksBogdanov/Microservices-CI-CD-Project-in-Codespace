@@ -30,7 +30,8 @@ Creating Python Microservices project, built entirenly in Github Codespaces
 10) Adding testing state to Makefile
 11) Adding format, now replaced by github copilot
 12) Create make all, doing everything at once: lint, format, test and install packages
-
+13) Create AWS lambda function to test the logic
+14) To debud, useful tool is fire. Convert python functions into CLI 
  ### Colab Notebook
  ### AWS Cloud9
   - Working very actively with the cloud, this is a very good idea, to clone you repository there

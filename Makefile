@@ -16,4 +16,6 @@ format:
 test:
 		python -m pytest -vv --cov=src test/test_*.py
 
-all: install lint test format
+deploy:	
+	
+all: install lint test format deploy
